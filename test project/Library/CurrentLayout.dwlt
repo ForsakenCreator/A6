@@ -428,9 +428,15 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: 18.993666, y: -0.69501305, z: 14.7741165}
     speed: 2
     m_Value: {x: 18.993666, y: -0.69501305, z: 14.7741165}
+=======
+    m_Target: {x: 20.784395, y: 3.3591084, z: 13.039311}
+    speed: 2
+    m_Value: {x: 20.784395, y: 3.3591084, z: 13.039311}
+>>>>>>> 2ee93438d3ce01053cc5eb98866ab698b5110929
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -456,11 +462,19 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.06557636, y: 0.9343325, z: -0.25437513, w: 0.24086481}
     speed: 2
+<<<<<<< HEAD
     m_Value: {x: 0.06557635, y: 0.93433243, z: -0.25437513, w: 0.24086481}
   m_Size:
     m_Target: 40.04971
     speed: 2
     m_Value: 40.04971
+=======
+    m_Value: {x: 0.06557636, y: 0.9343325, z: -0.25437513, w: 0.24086481}
+  m_Size:
+    m_Target: 18.134523
+    speed: 2
+    m_Value: 18.134523
+>>>>>>> 2ee93438d3ce01053cc5eb98866ab698b5110929
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -648,7 +662,11 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
+<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 0
+=======
+    m_HadKeyboardFocusLastEvent: 1
+>>>>>>> 2ee93438d3ce01053cc5eb98866ab698b5110929
     m_ExpandedInstanceIDs: c6230000be500000da5100007e3b0000923b00009e2c00005231000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
